@@ -5,7 +5,7 @@ const index = memo((props) => {
 
   useEffect(() => {
     funcionConsolelog();
-  }, []);
+  }, [funcionConsolelog]);
 
   return (
     <div className="container-fake-todo">

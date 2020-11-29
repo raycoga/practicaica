@@ -1,10 +1,10 @@
 import logo from './logo.svg';
 import './App.css';
+
 import FakeTodo from './components/testTodo'
 
 
 function App() {
-
   const newProps={
     id:'as5d1as8f528518f1485d5as',
     data:'Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum repellat, numquam quidem eius aliquid consequuntur atque recusandae, iste fugiat excepturi odit nostrum ullam rerum dolorum adipisci, quo architecto pariatur in.',
